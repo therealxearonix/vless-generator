@@ -3,5 +3,5 @@ simple script to generate vless/reality vpn configs for xray
 
 # usage
 ```
-./vlessgeneraotr "your vless vpn link"
+./vlessgenerator "your vless vpn link"
 ```
